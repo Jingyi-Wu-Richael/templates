@@ -1,8 +1,8 @@
-# Templates Catalog
-Catalog of templates for Workflows, Workspaces, Tasks and Sidecars in INESA AIIC AIMP.
+# 模板目录
+INESA AIIC AIMP 中工作流、工作区、任务和边车的模板目录。
 
-## Getting started
-To get started, it's best to understand Onepanel's [Concepts](https://docs.dev.aimpcloud.cn) first.
+## 快速上手
+入门的话，最好先了解 AIMP 的 [概念](https://docs.dev.aimpcloud.cn) first.
 
 See the following references for more information on how to build these templates:
 
